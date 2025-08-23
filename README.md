@@ -210,11 +210,10 @@ frontend/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/imakshat47/BolSaathi.git
-cd BolSaathi/frontend
+git clone 
 
 ### 2.Install Dependencies
-npm install
+npm install --legacy-peer-deps
 <br/>
 --If you get errors (e.g., with react-speech-kit)
 npm install react@18 react-dom@18

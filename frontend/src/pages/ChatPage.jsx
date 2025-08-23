@@ -167,9 +167,9 @@ const ChatPage = () => {
           user_input: input,
         }),
       });
-
       const data = await res.json();
-      const botReply = data.data.details || "Sorry, no details found.";
+      console.log(data)
+      const botReply = data.data.response || "Sorry, no details found.";
       setMessages((msgs) => [...msgs, { from: "bot", text: botReply }]);
     } catch (err) {
       console.error("Fetch error:", err);
