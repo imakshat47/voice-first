@@ -1,0 +1,52 @@
+{
+  "translation": {
+    "navbar": {
+      "search": "🔍 SEARCH HERE",
+      "userInfo": "User Info",
+      "signup": "Sign Up",
+      "schemes": "Schemes"
+    },
+    "home": {
+      "tagline": "Your multilingual AI assistant for welfare schemes.",
+      "getStarted": "Get Started"
+    },
+    "greeting": {
+      "title": "Greeting you...",
+      "prompt": "Say or type something like: I'm Ramesh, male, 24 years old, working at DBHN company, living in Mumbai...",
+      "listen": "🎙️ Listen",
+      "stopListening": "Stop Listening",
+      "submit": "Submit"
+    },
+    "signup": {
+      "title": "SIGN UP",
+      "prompt": "Speak or type your details below.",
+      "promptExample": "Example: “My name is Rahul”",
+      "namePlaceholder": "Your Name",
+      "passwordPlaceholder": "Password",
+      "button": "Sign Up",
+      "speakNow": "🎙️ Speak Now",
+      "loginPrompt": "Already have an account? ",
+      "loginLink": "Login"
+    },
+    "login": {
+      "title": "LOGIN",
+      "prompt": "Speak or type your credentials.",
+      "promptExample": "Example: “My name is Rahul”",
+      "namePlaceholder": "Your Name",
+      "passwordPlaceholder": "Password",
+      "button": "Login",
+      "speakNow": "🎙️ Speak Now",
+      "signupPrompt": "Don’t have an account? ",
+      "signupLink": "Sign Up"
+    },
+    "dashboard": {
+      "title": "WELFARE SCHEMES"
+    },
+    "chat": {
+      "title": "Chat with Bol Saathi",
+      "placeholder": "Ask something...",
+      "send": "Send",
+      "stop": "Stop"
+    }
+  }
+}
